@@ -1,0 +1,21 @@
+Objectives :
+-To study concept of Concurrent Threads. Thread Synchronization. 
+-To understand the race condition, achieving synchronization using semaphores 
+-Use semaphores to solve Reader Writer Problem.
+
+
+
+To run part A:
+
+$gcc parta.c -lpthread
+$./a.out
+
+To run part B:
+
+$gcc partb.c -lpthread
+$./a.out
+
+To run part C:
+
+$gcc partc.c -lpthread
+$./a.out
